@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CramMd5Authenticator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137039591441" remote="132289140610000000" Dst="2" />
+<file name="LoginAuthenticator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137039945592" remote="132289140610000000" Dst="2" />
+<file name="NTLMAuthenticator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137041712533" remote="132289140620000000" Dst="2" />
+<file name="PlainAuthenticator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137042235183" remote="132289140620000000" Dst="2" />
+<file name="XOAuth2Authenticator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137043301455" remote="132289140620000000" Dst="2" />
+<file name="NTLMAuthenticator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137041712533" remote="132334700400000000" Dst="1" />
+<file name="PlainAuthenticator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137042235183" remote="132334700400000000" Dst="1" />
+<file name="XOAuth2Authenticator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137043301455" remote="132334701000000000" Dst="1" />
+<file name="LoginAuthenticator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137039945592" remote="132334701000000000" Dst="1" />
+<file name="CramMd5Authenticator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137039591441" remote="132334701600000000" Dst="1" />
+</dwsync>

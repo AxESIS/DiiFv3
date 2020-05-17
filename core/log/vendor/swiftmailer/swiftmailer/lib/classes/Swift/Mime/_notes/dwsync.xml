@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136964483244" remote="132289139920000000" Dst="2" />
+<file name="CharsetObserver.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136965411093" remote="132289139930000000" Dst="2" />
+<file name="ContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136973977958" remote="132289139990000000" Dst="2" />
+<file name="EmbeddedFile.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136975038316" remote="132289139990000000" Dst="2" />
+<file name="EncodingObserver.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136975942071" remote="132289140000000000" Dst="2" />
+<file name="Header.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136976964373" remote="132289140010000000" Dst="2" />
+<file name="HeaderEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136980290173" remote="132289140040000000" Dst="2" />
+<file name="IdGenerator.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136990312866" remote="132289140110000000" Dst="2" />
+<file name="MimePart.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136991389609" remote="132289140110000000" Dst="2" />
+<file name="SimpleHeaderFactory.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136992453191" remote="132289140120000000" Dst="2" />
+<file name="SimpleHeaderSet.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136992834275" remote="132289140120000000" Dst="2" />
+<file name="SimpleMessage.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136995097258" remote="132289140130000000" Dst="2" />
+<file name="SimpleMimeEntity.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136996243219" remote="132289140140000000" Dst="2" />
+<file name="Attachment.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136964483244" remote="132334699800000000" Dst="1" />
+<file name="EmbeddedFile.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136975038316" remote="132334699800000000" Dst="1" />
+<file name="ContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136973977958" remote="132334699800000000" Dst="1" />
+<file name="EncodingObserver.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136975942071" remote="132334699800000000" Dst="1" />
+<file name="Header.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136976964373" remote="132334699800000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136992453191" remote="132334699800000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136992834275" remote="132334699800000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136996243219" remote="132334699800000000" Dst="1" />
+<file name="HeaderEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136980290173" remote="132334699800000000" Dst="1" />
+<file name="CharsetObserver.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136965411093" remote="132334701000000000" Dst="1" />
+<file name="IdGenerator.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136990312866" remote="132334701000000000" Dst="1" />
+<file name="SimpleMessage.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136995097258" remote="132334701000000000" Dst="1" />
+<file name="MimePart.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136991389609" remote="132334701000000000" Dst="1" />
+</dwsync>

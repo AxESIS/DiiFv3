@@ -1,0 +1,9 @@
+{
+	"mod":
+		{
+			"name": "APE Utility Module",
+			"version": "1.0.0",
+			"call_name":"AXESIS\\APE\\V3\\utility",
+			"type":"MODULE"
+		}
+}

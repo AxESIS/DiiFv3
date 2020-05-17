@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ca.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137243578265" remote="132289142400000000" Dst="2" />
+<file name="ca.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137245263792" remote="132289142400000000" Dst="2" />
+<file name="CA.srl" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137246478286" remote="132289142410000000" Dst="2" />
+<file name="create-cert.sh" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137247913370" remote="132289142410000000" Dst="2" />
+<file name="encrypt.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137249035515" remote="132289142420000000" Dst="2" />
+<file name="encrypt.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137250026641" remote="132289142420000000" Dst="2" />
+<file name="encrypt2.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137251622097" remote="132289142430000000" Dst="2" />
+<file name="encrypt2.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137251946435" remote="132289142430000000" Dst="2" />
+<file name="intermediate.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137252930982" remote="132289142430000000" Dst="2" />
+<file name="intermediate.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137253894900" remote="132289142440000000" Dst="2" />
+<file name="sign.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137254850846" remote="132289142440000000" Dst="2" />
+<file name="sign.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137255130917" remote="132289142450000000" Dst="2" />
+<file name="sign2.crt" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137256131681" remote="132289142450000000" Dst="2" />
+<file name="sign2.key" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137257095428" remote="132289142450000000" Dst="2" />
+<file name="ca.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137245263792" remote="132334701000000000" Dst="1" />
+<file name="encrypt.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137249035515" remote="132334701000000000" Dst="1" />
+<file name="create-cert.sh" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137247913370" remote="132334701000000000" Dst="1" />
+<file name="encrypt2.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137251622097" remote="132334701000000000" Dst="1" />
+<file name="encrypt2.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137251946435" remote="132334701000000000" Dst="1" />
+<file name="intermediate.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137252930982" remote="132334701000000000" Dst="1" />
+<file name="sign2.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137256131681" remote="132334701000000000" Dst="1" />
+<file name="encrypt.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137250026641" remote="132334701000000000" Dst="1" />
+<file name="ca.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137243578265" remote="132334701000000000" Dst="1" />
+<file name="sign.crt" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137254850846" remote="132334701600000000" Dst="1" />
+<file name="sign.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137255130917" remote="132334701600000000" Dst="1" />
+<file name="sign2.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137257095428" remote="132334701600000000" Dst="1" />
+<file name="CA.srl" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137246478286" remote="132334701600000000" Dst="1" />
+<file name="intermediate.key" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137253894900" remote="132334705200000000" Dst="1" />
+</dwsync>

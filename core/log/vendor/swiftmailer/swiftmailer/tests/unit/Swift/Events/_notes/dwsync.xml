@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEventTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137145562308" remote="132289141570000000" Dst="2" />
+<file name="EventObjectTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137147379993" remote="132289141570000000" Dst="2" />
+<file name="ResponseEventTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137148389455" remote="132289141580000000" Dst="2" />
+<file name="SendEventTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137149394625" remote="132289141580000000" Dst="2" />
+<file name="SimpleEventDispatcherTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137151137089" remote="132289141580000000" Dst="2" />
+<file name="TransportChangeEventTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137152154170" remote="132289141590000000" Dst="2" />
+<file name="TransportExceptionEventTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137153171227" remote="132289141590000000" Dst="2" />
+<file name="CommandEventTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137145562308" remote="132334700400000000" Dst="1" />
+<file name="SendEventTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137149394625" remote="132334700400000000" Dst="1" />
+<file name="TransportChangeEventTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137152154170" remote="132334700400000000" Dst="1" />
+<file name="SimpleEventDispatcherTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137151137089" remote="132334701000000000" Dst="1" />
+<file name="TransportExceptionEventTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137153171227" remote="132334704600000000" Dst="1" />
+<file name="EventObjectTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137147379993" remote="132334704600000000" Dst="1" />
+<file name="ResponseEventTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137148389455" remote="132334704600000000" Dst="1" />
+</dwsync>

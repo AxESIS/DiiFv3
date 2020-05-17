@@ -1,0 +1,21 @@
+{
+	"log": {
+		"email" : {
+			"smtp": "",
+			"port": 25,
+			"tls": "none",
+			"from": {
+				"email" : "",
+				"name" : ""
+			},
+			"addresses": [
+				{
+					"email" : "",
+					"name"  : ""
+				}
+			],
+			"username": "",
+			"password": ""
+		}
+	}
+}

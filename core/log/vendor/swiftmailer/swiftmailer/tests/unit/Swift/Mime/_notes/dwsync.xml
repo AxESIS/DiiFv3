@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMimeEntityTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137160850328" remote="132289141690000000" Dst="2" />
+<file name="AttachmentTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137161868578" remote="132289141690000000" Dst="2" />
+<file name="EmbeddedFileTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137166302375" remote="132289141730000000" Dst="2" />
+<file name="IdGeneratorTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137179337098" remote="132289141820000000" Dst="2" />
+<file name="MimePartTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137181106128" remote="132289141830000000" Dst="2" />
+<file name="SimpleHeaderFactoryTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137182136604" remote="132289141840000000" Dst="2" />
+<file name="SimpleHeaderSetTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137183861247" remote="132289141850000000" Dst="2" />
+<file name="SimpleMessageTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137184919350" remote="132289141850000000" Dst="2" />
+<file name="SimpleMimeEntityTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137185931378" remote="132289141860000000" Dst="2" />
+<file name="EmbeddedFileTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137166302375" remote="132334700400000000" Dst="1" />
+<file name="IdGeneratorTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137179337098" remote="132334700400000000" Dst="1" />
+<file name="MimePartTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137181106128" remote="132334700400000000" Dst="1" />
+<file name="SimpleMessageTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137184919350" remote="132334700400000000" Dst="1" />
+<file name="SimpleHeaderFactoryTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137182136604" remote="132334701600000000" Dst="1" />
+<file name="AbstractMimeEntityTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137160850328" remote="132334701600000000" Dst="1" />
+<file name="AttachmentTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137161868578" remote="132334704600000000" Dst="1" />
+<file name="SimpleHeaderSetTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137183861247" remote="132334704600000000" Dst="1" />
+<file name="SimpleMimeEntityTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137185931378" remote="132334704600000000" Dst="1" />
+</dwsync>

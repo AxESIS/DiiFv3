@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BlockCipher.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164867228137" remote="132289165160000000" Dst="2" />
+<file name="FileCipher.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164868330218" remote="132289165210000000" Dst="2" />
+<file name="Hash.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164868528174" remote="132289165210000000" Dst="2" />
+<file name="Hmac.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164868745241" remote="132289165220000000" Dst="2" />
+<file name="Hybrid.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164908763324" remote="132289165220000000" Dst="2" />
+<file name="SymmetricPluginManager.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164967020674" remote="132289165680000000" Dst="2" />
+<file name="Utils.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164968927727" remote="132289165680000000" Dst="2" />
+<file name="BlockCipher.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164867228137" remote="132334734600000000" Dst="1" />
+<file name="Hash.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164868528174" remote="132334734600000000" Dst="1" />
+<file name="Hmac.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164868745241" remote="132334734600000000" Dst="1" />
+<file name="FileCipher.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164868330218" remote="132334734600000000" Dst="1" />
+<file name="Utils.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164968927727" remote="132334735200000000" Dst="1" />
+<file name="SymmetricPluginManager.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164967020674" remote="132334735200000000" Dst="1" />
+<file name="Hybrid.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164908763324" remote="132334736400000000" Dst="1" />
+</dwsync>

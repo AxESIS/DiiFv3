@@ -1,0 +1,9 @@
+{
+	"mod":
+		{
+			"name": "APE CRUD REST Module",
+			"version": "1.0.1",
+			"call_name":"APE\\V3\\modules\\rest",
+			"type":"MODULE"
+		}
+}

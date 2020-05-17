@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137037761795" remote="132289140580000000" Dst="2" />
+<file name="EsmtpHandler.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137049583276" remote="132289140670000000" Dst="2" />
+<file name="EsmtpTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137050720422" remote="132289140680000000" Dst="2" />
+<file name="FailoverTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137051726996" remote="132289140690000000" Dst="2" />
+<file name="IoBuffer.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137052271757" remote="132289140690000000" Dst="2" />
+<file name="LoadBalancedTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137053343481" remote="132289140690000000" Dst="2" />
+<file name="NullTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137054362647" remote="132289140700000000" Dst="2" />
+<file name="SendmailTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137055434217" remote="132289140700000000" Dst="2" />
+<file name="SmtpAgent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137056431567" remote="132289140710000000" Dst="2" />
+<file name="SpoolTransport.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137057448443" remote="132289140710000000" Dst="2" />
+<file name="StreamBuffer.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137058435400" remote="132289140720000000" Dst="2" />
+<file name="AbstractSmtpTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137037761795" remote="132334700400000000" Dst="1" />
+<file name="EsmtpHandler.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137049583276" remote="132334700400000000" Dst="1" />
+<file name="EsmtpTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137050720422" remote="132334700400000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137053343481" remote="132334700400000000" Dst="1" />
+<file name="SmtpAgent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137056431567" remote="132334700400000000" Dst="1" />
+<file name="SpoolTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137057448443" remote="132334700400000000" Dst="1" />
+<file name="IoBuffer.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137052271757" remote="132334701000000000" Dst="1" />
+<file name="NullTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137054362647" remote="132334701000000000" Dst="1" />
+<file name="SendmailTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137055434217" remote="132334701000000000" Dst="1" />
+<file name="StreamBuffer.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137058435400" remote="132334701000000000" Dst="1" />
+<file name="FailoverTransport.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137051726996" remote="132334701000000000" Dst="1" />
+</dwsync>

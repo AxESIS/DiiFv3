@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137024680907" remote="132289140460000000" Dst="2" />
+<file name="DKIMSigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137025667967" remote="132289140470000000" Dst="2" />
+<file name="DomainKeySigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137026725815" remote="132289140470000000" Dst="2" />
+<file name="HeaderSigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137027654309" remote="132289140480000000" Dst="2" />
+<file name="OpenDKIMSigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137028723203" remote="132289140480000000" Dst="2" />
+<file name="SMimeSigner.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137029076170" remote="132289140490000000" Dst="2" />
+<file name="BodySigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137024680907" remote="132334699800000000" Dst="1" />
+<file name="DKIMSigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137025667967" remote="132334699800000000" Dst="1" />
+<file name="SMimeSigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137029076170" remote="132334700400000000" Dst="1" />
+<file name="DomainKeySigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137026725815" remote="132334701000000000" Dst="1" />
+<file name="HeaderSigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137027654309" remote="132334701000000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137028723203" remote="132334701000000000" Dst="1" />
+</dwsync>

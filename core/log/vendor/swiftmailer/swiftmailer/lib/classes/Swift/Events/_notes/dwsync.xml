@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEvent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136928342267" remote="132289139680000000" Dst="2" />
+<file name="CommandListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136929329718" remote="132289139680000000" Dst="2" />
+<file name="Event.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136930357572" remote="132289139690000000" Dst="2" />
+<file name="EventDispatcher.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136931375518" remote="132289139690000000" Dst="2" />
+<file name="EventListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136932337372" remote="132289139700000000" Dst="2" />
+<file name="EventObject.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136933355666" remote="132289139700000000" Dst="2" />
+<file name="ResponseEvent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136934420433" remote="132289139710000000" Dst="2" />
+<file name="ResponseListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136935332208" remote="132289139710000000" Dst="2" />
+<file name="SendEvent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136936367821" remote="132289139710000000" Dst="2" />
+<file name="SendListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136936701416" remote="132289139720000000" Dst="2" />
+<file name="SimpleEventDispatcher.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136938447727" remote="132289139730000000" Dst="2" />
+<file name="TransportChangeEvent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136939499725" remote="132289139730000000" Dst="2" />
+<file name="TransportChangeListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136939831152" remote="132289139740000000" Dst="2" />
+<file name="TransportExceptionEvent.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136940840546" remote="132289139740000000" Dst="2" />
+<file name="TransportExceptionListener.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136941818253" remote="132289139750000000" Dst="2" />
+<file name="CommandListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136929329718" remote="132334699800000000" Dst="1" />
+<file name="EventDispatcher.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136931375518" remote="132334699800000000" Dst="1" />
+<file name="EventListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136932337372" remote="132334699800000000" Dst="1" />
+<file name="SendEvent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136936367821" remote="132334699800000000" Dst="1" />
+<file name="SendListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136936701416" remote="132334699800000000" Dst="1" />
+<file name="SimpleEventDispatcher.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136938447727" remote="132334699800000000" Dst="1" />
+<file name="TransportExceptionListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136941818253" remote="132334699800000000" Dst="1" />
+<file name="Event.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136930357572" remote="132334699800000000" Dst="1" />
+<file name="CommandEvent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136928342267" remote="132334700400000000" Dst="1" />
+<file name="TransportExceptionEvent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136940840546" remote="132334701000000000" Dst="1" />
+<file name="TransportChangeListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136939831152" remote="132334701000000000" Dst="1" />
+<file name="ResponseEvent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136934420433" remote="132334701000000000" Dst="1" />
+<file name="TransportChangeEvent.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136939499725" remote="132334701000000000" Dst="1" />
+<file name="ResponseListener.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136935332208" remote="132334703400000000" Dst="1" />
+<file name="EventObject.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136933355666" remote="132334703400000000" Dst="1" />
+</dwsync>

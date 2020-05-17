@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadMethodCallException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165020860349" remote="132289166030000000" Dst="2" />
+<file name="DomainException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165022040480" remote="132289166030000000" Dst="2" />
+<file name="ExceptionInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165023154564" remote="132289166040000000" Dst="2" />
+<file name="ExtensionNotLoadedException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165024276822" remote="132289166040000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165025406899" remote="132289166050000000" Dst="2" />
+<file name="LogicException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165026534480" remote="132289166060000000" Dst="2" />
+<file name="RuntimeException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289165027639895" remote="132289166060000000" Dst="2" />
+<file name="RuntimeException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165027639895" remote="132334735200000000" Dst="1" />
+<file name="DomainException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165022040480" remote="132334735200000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165025406899" remote="132334735200000000" Dst="1" />
+<file name="BadMethodCallException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165020860349" remote="132334736400000000" Dst="1" />
+<file name="ExceptionInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165023154564" remote="132334736400000000" Dst="1" />
+<file name="ExtensionNotLoadedException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165024276822" remote="132334736400000000" Dst="1" />
+<file name="LogicException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289165026534480" remote="132334736400000000" Dst="1" />
+</dwsync>

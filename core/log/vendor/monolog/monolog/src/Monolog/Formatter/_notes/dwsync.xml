@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136762456303" remote="132289138490000000" Dst="2" />
+<file name="ElasticaFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136763479197" remote="132289138500000000" Dst="2" />
+<file name="FlowdockFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136764668586" remote="132289138500000000" Dst="2" />
+<file name="FluentdFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136765645999" remote="132289138500000000" Dst="2" />
+<file name="FormatterInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136766629692" remote="132289138510000000" Dst="2" />
+<file name="GelfMessageFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136767623719" remote="132289138510000000" Dst="2" />
+<file name="HtmlFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136768617945" remote="132289138520000000" Dst="2" />
+<file name="JsonFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136769586746" remote="132289138520000000" Dst="2" />
+<file name="LineFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136770716111" remote="132289138530000000" Dst="2" />
+<file name="LogglyFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136771684822" remote="132289138530000000" Dst="2" />
+<file name="LogstashFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136772694481" remote="132289138540000000" Dst="2" />
+<file name="MongoDBFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136773703591" remote="132289138540000000" Dst="2" />
+<file name="NormalizerFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136774746149" remote="132289138550000000" Dst="2" />
+<file name="ScalarFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136775689896" remote="132289138550000000" Dst="2" />
+<file name="WildfireFormatter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136776673766" remote="132289138560000000" Dst="2" />
+<file name="ChromePHPFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136762456303" remote="132334698600000000" Dst="1" />
+<file name="ElasticaFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136763479197" remote="132334698600000000" Dst="1" />
+<file name="FormatterInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136766629692" remote="132334698600000000" Dst="1" />
+<file name="GelfMessageFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136767623719" remote="132334698600000000" Dst="1" />
+<file name="LineFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136770716111" remote="132334698600000000" Dst="1" />
+<file name="LogglyFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136771684822" remote="132334698600000000" Dst="1" />
+<file name="NormalizerFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136774746149" remote="132334698600000000" Dst="1" />
+<file name="ScalarFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136775689896" remote="132334698600000000" Dst="1" />
+<file name="HtmlFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136768617945" remote="132334699800000000" Dst="1" />
+<file name="FlowdockFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136764668586" remote="132334701000000000" Dst="1" />
+<file name="FluentdFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136765645999" remote="132334701000000000" Dst="1" />
+<file name="WildfireFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136776673766" remote="132334701000000000" Dst="1" />
+<file name="MongoDBFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136773703591" remote="132334703400000000" Dst="1" />
+<file name="JsonFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136769586746" remote="132334703400000000" Dst="1" />
+<file name="LogstashFormatter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136772694481" remote="132334703400000000" Dst="1" />
+</dwsync>

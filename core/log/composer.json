@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^1.25",
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}

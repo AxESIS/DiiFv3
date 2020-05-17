@@ -1,0 +1,22 @@
+{
+	"default": {
+		"site" : {
+			"locale" : "en_US.UTF-8",
+			"timezone" : "Australia/Melbourne",
+			"url_root": "/",
+			"url_path": "https://example.com.au/",
+			"upload_dir": "/../../data/default/uploads/",
+			"backup_dir": "/../../data/default/backups/",
+			"download_dir": "/../../data/default/downloads/",
+			"log_dir": "/../../data/default/logs/",
+			"cache_dir": "/../../data/default/cache/",
+			"data_dir" : "/../../data/default/",
+			"data_files_dir" : "/../../data/default/data",
+			"default" : "/default/index.php"
+		},
+		"cache" : {
+			"storage" : "store.json",
+			"expire" : 30
+		}
+	}
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DNSCheckValidation.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136708773972" remote="132289138150000000" Dst="2" />
+<file name="EmailValidation.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136709716040" remote="132289138150000000" Dst="2" />
+<file name="MultipleErrors.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136715924021" remote="132289138210000000" Dst="2" />
+<file name="MultipleValidationWithAnd.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136716895985" remote="132289138220000000" Dst="2" />
+<file name="NoRFCWarningsValidation.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136718528215" remote="132289138220000000" Dst="2" />
+<file name="RFCValidation.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136719475648" remote="132289138230000000" Dst="2" />
+<file name="SpoofCheckValidation.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136720507557" remote="132289138230000000" Dst="2" />
+<file name="DNSCheckValidation.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136708773972" remote="132334698000000000" Dst="1" />
+<file name="NoRFCWarningsValidation.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136718528215" remote="132334698000000000" Dst="1" />
+<file name="RFCValidation.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136719475648" remote="132334698000000000" Dst="1" />
+<file name="EmailValidation.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136709716040" remote="132334699200000000" Dst="1" />
+<file name="MultipleErrors.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136715924021" remote="132334700400000000" Dst="1" />
+<file name="MultipleValidationWithAnd.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136716895985" remote="132334700400000000" Dst="1" />
+<file name="SpoofCheckValidation.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136720507557" remote="132334700400000000" Dst="1" />
+</dwsync>

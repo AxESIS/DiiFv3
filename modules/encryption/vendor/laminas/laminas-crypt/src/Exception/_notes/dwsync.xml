@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164867466675" remote="132289165170000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164867657937" remote="132289165180000000" Dst="2" />
+<file name="NotFoundException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164867846299" remote="132289165180000000" Dst="2" />
+<file name="RuntimeException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289164868035189" remote="132289165190000000" Dst="2" />
+<file name="ExceptionInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164867466675" remote="132334734600000000" Dst="1" />
+<file name="NotFoundException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164867846299" remote="132334734600000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164867657937" remote="132334736400000000" Dst="1" />
+<file name="RuntimeException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289164868035189" remote="132334736400000000" Dst="1" />
+</dwsync>

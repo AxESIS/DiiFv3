@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GitProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136854339616" remote="132289139020000000" Dst="2" />
+<file name="IntrospectionProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136855357759" remote="132289139030000000" Dst="2" />
+<file name="MemoryPeakUsageProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136856361597" remote="132289139030000000" Dst="2" />
+<file name="MemoryProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136856666070" remote="132289139040000000" Dst="2" />
+<file name="MemoryUsageProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136857716150" remote="132289139040000000" Dst="2" />
+<file name="MercurialProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136858709168" remote="132289139050000000" Dst="2" />
+<file name="ProcessIdProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136859694903" remote="132289139050000000" Dst="2" />
+<file name="ProcessorInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136860675639" remote="132289139050000000" Dst="2" />
+<file name="PsrLogMessageProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136861628314" remote="132289139060000000" Dst="2" />
+<file name="TagProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136862618549" remote="132289139060000000" Dst="2" />
+<file name="UidProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136863624052" remote="132289139060000000" Dst="2" />
+<file name="WebProcessor.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136864644720" remote="132289139070000000" Dst="2" />
+<file name="GitProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136854339616" remote="132334699200000000" Dst="1" />
+<file name="IntrospectionProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136855357759" remote="132334699200000000" Dst="1" />
+<file name="MemoryUsageProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136857716150" remote="132334699200000000" Dst="1" />
+<file name="MercurialProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136858709168" remote="132334699200000000" Dst="1" />
+<file name="PsrLogMessageProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136861628314" remote="132334699200000000" Dst="1" />
+<file name="TagProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136862618549" remote="132334699200000000" Dst="1" />
+<file name="MemoryPeakUsageProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136856361597" remote="132334700400000000" Dst="1" />
+<file name="ProcessIdProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136859694903" remote="132334700400000000" Dst="1" />
+<file name="ProcessorInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136860675639" remote="132334700400000000" Dst="1" />
+<file name="MemoryProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136856666070" remote="132334703400000000" Dst="1" />
+<file name="WebProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136864644720" remote="132334703400000000" Dst="1" />
+<file name="UidProcessor.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136863624052" remote="132334703400000000" Dst="1" />
+</dwsync>

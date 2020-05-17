@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137000561134" remote="132289140190000000" Dst="2" />
+<file name="BandwidthMonitorPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137001508518" remote="132289140190000000" Dst="2" />
+<file name="DecoratorPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137003000475" remote="132289140240000000" Dst="2" />
+<file name="ImpersonatePlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137004003906" remote="132289140240000000" Dst="2" />
+<file name="Logger.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137004995470" remote="132289140250000000" Dst="2" />
+<file name="LoggerPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137006028341" remote="132289140260000000" Dst="2" />
+<file name="MessageLogger.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137009142913" remote="132289140300000000" Dst="2" />
+<file name="PopBeforeSmtpPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137011634304" remote="132289140340000000" Dst="2" />
+<file name="RedirectingPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137012675623" remote="132289140350000000" Dst="2" />
+<file name="Reporter.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137013618442" remote="132289140350000000" Dst="2" />
+<file name="ReporterPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137013961187" remote="132289140360000000" Dst="2" />
+<file name="Sleeper.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137017181967" remote="132289140400000000" Dst="2" />
+<file name="ThrottlerPlugin.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137018216740" remote="132289140400000000" Dst="2" />
+<file name="Timer.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137019241045" remote="132289140410000000" Dst="2" />
+<file name="AntiFloodPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137000561134" remote="132334699800000000" Dst="1" />
+<file name="DecoratorPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137003000475" remote="132334699800000000" Dst="1" />
+<file name="MessageLogger.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137009142913" remote="132334699800000000" Dst="1" />
+<file name="PopBeforeSmtpPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137011634304" remote="132334699800000000" Dst="1" />
+<file name="Sleeper.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137017181967" remote="132334699800000000" Dst="1" />
+<file name="Timer.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137019241045" remote="132334699800000000" Dst="1" />
+<file name="Reporter.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137013618442" remote="132334700400000000" Dst="1" />
+<file name="LoggerPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137006028341" remote="132334701000000000" Dst="1" />
+<file name="ReporterPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137013961187" remote="132334701000000000" Dst="1" />
+<file name="ThrottlerPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137018216740" remote="132334701000000000" Dst="1" />
+<file name="ImpersonatePlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137004003906" remote="132334701600000000" Dst="1" />
+<file name="BandwidthMonitorPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137001508518" remote="132334704000000000" Dst="1" />
+<file name="Logger.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137004995470" remote="132334707000000000" Dst="1" />
+<file name="RedirectingPlugin.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137012675623" remote="132334707000000000" Dst="1" />
+</dwsync>

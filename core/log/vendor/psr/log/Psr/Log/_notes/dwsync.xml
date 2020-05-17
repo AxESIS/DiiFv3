@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136872016290" remote="132289139190000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136872972341" remote="132289139190000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136874203884" remote="132289139190000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136875147124" remote="132289139200000000" Dst="2" />
+<file name="LoggerInterface.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136876159306" remote="132289139200000000" Dst="2" />
+<file name="LoggerTrait.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136877171313" remote="132289139210000000" Dst="2" />
+<file name="LogLevel.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136878102098" remote="132289139210000000" Dst="2" />
+<file name="NullLogger.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136879109300" remote="132289139210000000" Dst="2" />
+<file name="AbstractLogger.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136872016290" remote="132334699200000000" Dst="1" />
+<file name="LoggerAwareInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136874203884" remote="132334699200000000" Dst="1" />
+<file name="LoggerInterface.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136876159306" remote="132334699200000000" Dst="1" />
+<file name="LogLevel.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136878102098" remote="132334699200000000" Dst="1" />
+<file name="NullLogger.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136879109300" remote="132334699200000000" Dst="1" />
+<file name="LoggerTrait.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136877171313" remote="132334700400000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136872972341" remote="132334703400000000" Dst="1" />
+<file name="LoggerAwareTrait.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136875147124" remote="132334703400000000" Dst="1" />
+</dwsync>

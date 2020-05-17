@@ -1,0 +1,8 @@
+{
+	"crypt" : {
+		"key_size" : 4096,
+		"file_name": "",
+		"secret_key" : "",
+		"file_key" : ""
+	}
+}

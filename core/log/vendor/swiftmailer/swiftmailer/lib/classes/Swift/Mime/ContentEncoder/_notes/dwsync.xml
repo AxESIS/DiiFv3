@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Base64ContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136966500596" remote="132289139940000000" Dst="2" />
+<file name="NativeQpContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136967544845" remote="132289139950000000" Dst="2" />
+<file name="NullContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136968615138" remote="132289139950000000" Dst="2" />
+<file name="PlainContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136968977829" remote="132289139950000000" Dst="2" />
+<file name="QpContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136969964534" remote="132289139960000000" Dst="2" />
+<file name="QpContentEncoderProxy.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136971023823" remote="132289139970000000" Dst="2" />
+<file name="RawContentEncoder.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289136972054854" remote="132289139970000000" Dst="2" />
+<file name="NullContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136968615138" remote="132334699800000000" Dst="1" />
+<file name="NativeQpContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136967544845" remote="132334699800000000" Dst="1" />
+<file name="PlainContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136968977829" remote="132334699800000000" Dst="1" />
+<file name="QpContentEncoderProxy.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136971023823" remote="132334701000000000" Dst="1" />
+<file name="RawContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136972054854" remote="132334701000000000" Dst="1" />
+<file name="QpContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136969964534" remote="132334701000000000" Dst="1" />
+<file name="Base64ContentEncoder.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289136966500596" remote="132334703400000000" Dst="1" />
+</dwsync>

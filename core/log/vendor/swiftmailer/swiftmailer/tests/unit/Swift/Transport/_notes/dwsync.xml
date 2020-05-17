@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpEventSupportTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137214922607" remote="132289142080000000" Dst="2" />
+<file name="AbstractSmtpTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137216054461" remote="132289142090000000" Dst="2" />
+<file name="EsmtpTransportTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137224866425" remote="132289142190000000" Dst="2" />
+<file name="FailoverTransportTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137225963322" remote="132289142200000000" Dst="2" />
+<file name="LoadBalancedTransportTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137228314870" remote="132289142200000000" Dst="2" />
+<file name="SendmailTransportTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137229554592" remote="132289142210000000" Dst="2" />
+<file name="StreamBufferTest.php" server="core.rstvic.co//var/www/core.rstvic.co/public_html/" local="132289137229900415" remote="132289142210000000" Dst="2" />
+<file name="AbstractSmtpTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137216054461" remote="132334700400000000" Dst="1" />
+<file name="EsmtpTransportTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137224866425" remote="132334700400000000" Dst="1" />
+<file name="StreamBufferTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137229900415" remote="132334701000000000" Dst="1" />
+<file name="FailoverTransportTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137225963322" remote="132334701000000000" Dst="1" />
+<file name="LoadBalancedTransportTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137228314870" remote="132334701600000000" Dst="1" />
+<file name="AbstractSmtpEventSupportTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137214922607" remote="132334705200000000" Dst="1" />
+<file name="SendmailTransportTest.php" server="s121.syd3.hostingplatform.net.au//subdomains/api.axesis.com.au/" local="132289137229554592" remote="132334705200000000" Dst="1" />
+</dwsync>

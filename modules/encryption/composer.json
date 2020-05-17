@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laminas/laminas-crypt": "^3.3"
+    }
+}

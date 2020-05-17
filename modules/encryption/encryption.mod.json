@@ -1,0 +1,9 @@
+{
+	"mod":
+		{
+			"name": "Laminas Encryption Module",
+			"version": "2.0.1",
+			"call_name":"AXESIS\\APE\\V3\\modules\\encryption\\crypt",
+			"type":"MODULE"
+		}
+}
